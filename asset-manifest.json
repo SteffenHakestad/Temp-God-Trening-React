@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Temp-God-Trening-React/static/css/main.0a4fb7a0.css",
+    "main.js": "/Temp-God-Trening-React/static/js/main.39309f8a.js",
+    "static/media/StockPhoto.jpg": "/Temp-God-Trening-React/static/media/StockPhoto.9a78d0ada57723114d66.jpg",
+    "index.html": "/Temp-God-Trening-React/index.html",
+    "main.0a4fb7a0.css.map": "/Temp-God-Trening-React/static/css/main.0a4fb7a0.css.map",
+    "main.39309f8a.js.map": "/Temp-God-Trening-React/static/js/main.39309f8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a4fb7a0.css",
+    "static/js/main.39309f8a.js"
+  ]
+}
